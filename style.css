@@ -1,0 +1,84 @@
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light warm neutral background */
+    color: #333; /* Dark gray text for good readability */
+}
+
+/* Header Section */
+header {
+    background-color: #f39c12; /* Warm amber background */
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Section Styles */
+section {
+    padding: 40px 20px;
+    margin: 20px 0;
+}
+
+h2 {
+    color: #2c3e50; /* Darker color for headings */
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+/* Text Content Styling */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555; /* Medium gray text */
+}
+
+/* Image Styling */
+.family-photo, .food-photo {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Intro Section */
+.intro {
+    background-color: #fef4e9; /* Soft warm beige background */
+    border-radius: 10px;
+}
+
+/* Special Memories Section */
+.special-memories {
+    background-color: #fcf3cf; /* Soft pale yellow background */
+    border-radius: 10px;
+}
+
+/* Food Experience Section */
+.food-experience {
+    background-color: #f1c40f; /* Warm yellow-orange background */
+    border-radius: 10px;
+}
+
+/* Family Time Section */
+.family-time {
+    background-color: #f5b041; /* Light caramel background */
+    border-radius: 10px;
+}
+
+/* Footer Section */
+footer {
+    background-color: #2c3e50; /* Dark gray footer background */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
